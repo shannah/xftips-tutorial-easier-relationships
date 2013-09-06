@@ -1,0 +1,5 @@
+[_database]
+	host=localhost
+	user=username
+	password=mypassword
+	name=databasename
