@@ -1,6 +1,6 @@
 # Xataface-Tips Tutorial: Making Adding/Removing Related Records Easier
 
-This repository provides the source code that accompanies [this blog post](...)  It uses
+This repository provides the source code that accompanies [this blog post]http://xataface-tips.blogspot.ca/2013/09/making-addingremoving-related-records.html)  It uses
 branches for different versions of the app, each branch demonstrating a different way of using
 relationships in a Xataface application.
 
